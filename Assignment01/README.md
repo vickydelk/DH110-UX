@@ -3,7 +3,7 @@
 ## Zero Hunger Project 
 ### Victoria Delk in DH110 
 
-THis project is about...
+I hope this project can 
 
 
 ![discription] (url.png)
