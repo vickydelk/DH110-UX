@@ -11,7 +11,7 @@ I hope this project can spread awareness and concern for the large nmber of maln
 
 ### https://unstats.un.org/sdgs/report/2016/goal-02/ from UN stats 
 
-![website screenshot](unstatsss.jpg)
+![website screenshot](../unstatsss.jpg)
 
 
 
