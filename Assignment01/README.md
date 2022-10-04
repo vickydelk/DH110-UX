@@ -23,7 +23,7 @@ This website highlights the severity of food insecurity worldwide and backs up i
 
 ## #1 Visibility of System Status
 Definition: Users should be kept aware of the status of whatever they do on a site.
-Evaluation: This site does a good job at meeting his huristic.Each  button is correctly labled with the outcome of pressing it and loading signs are used approperatly. 
+Evaluation: This site does a good job at meeting his huristic.Each  button is correctly labled with the outcome of pressing it and loading signs are used approperatly.<br /> 
 Sevarity Rating: 1
 
 ## #2 Match Between System and the Real World
@@ -118,4 +118,4 @@ Evaluation:
 Definition: Provide documentation users may follow to complete their task 
 Evaluation: 
 
-##Overall Evaluationj
+##Overall Evaluation
