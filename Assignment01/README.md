@@ -13,7 +13,7 @@ I hope this project can spread awareness and concern for the large nmber of maln
 
 ![website screenshot](../unstatsss.jpg)
 
-![website screenshot](../unstatschartss.jpg)
+![website screenshot](../unstatschartss.png)
 
 
 This website highlights the sevarity of food inscirity worldwide and backs up their claims with facts and figures. This statistical branch of he UN (UN stats) works to compile statistical data worldwide to advance the global statistical system and improve peoples lives. The Particualar artical I have chosen is very through in their data analysis and incluses information on a number of nations.It presents its data using both numbers and charts and cites many scientific studys when making claims.  It explains how acomplishing the "Zero Hunger" goal will come with the improvemnt in suatainable agriculture, equal access to land and technology, and certain increased investments. 
@@ -29,12 +29,22 @@ Users should be kept aware on the status of whatever they are doing on a site.
 
 
 ## #2 Match Between System and the Real World
+Design with phrases, concepts, and flows already familar to the user.
 
 ## #3 User Control and Freedom
+Easily allow Users to exit or undo tasks
+
 ## #4 Consistency and Standards
+Make uniform design and concept decisions across the whole of your appplication 
+
 ## #5 Error Prevention
+Anticipate and prevent users errors before they happen
+
 ## #6 Recognition Rather Than Recall
+Do not force users to memorize any information, instead give it to them and let them recall it
+
 ## #7 Flexibility and Efficiency of Use
+
 ## #8 Aesthetic and Minimalist Design
 ## #9 Help Users Recognize, Diagnose, and Recover From Errors
 ## #10 Help and Documentation
