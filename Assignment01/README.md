@@ -16,54 +16,106 @@ I hope this project can spread awareness and concern for the large nmber of maln
 ![website screenshot](../unstatschartss.png)
 
 
-This website highlights the sevarity of food inscirity worldwide and backs up their claims with facts and figures. This statistical branch of he UN (UN stats) works to compile statistical data worldwide to advance the global statistical system and improve peoples lives. The Particualar artical I have chosen is very through in their data analysis and incluses information on a number of nations.It presents its data using both numbers and charts and cites many scientific studys when making claims.  It explains how acomplishing the "Zero Hunger" goal will come with the improvemnt in suatainable agriculture, equal access to land and technology, and certain increased investments. 
+This website highlights the severity of food insecurity worldwide and backs up its claims with facts and figures. This statistical branch of the UN (UN stats) works to compile statistical data worldwide to advance the global statistical system and improve people's lives. The Particular article I have chosen is very thorough in its data analysis and includes information on a number of nations. It presents its data using numbers and charts and cites many scientific studies when making claims.  It explains how accomplishing the "Zero Hunger" goal will come with the improvement in sustainable agriculture, equal access to land and technology, and certain increased investments.
 
-###Huristic Evalustion 
-
-##Overall Evaluation
-Overall, I felt this website did a god job of providing the nessecary statistics for the Zero Hunger SUstainable goal. I found the charts to be extreamy useful for visuallizing the information. However, I found the information to be a little dense and quite statistocal. For this reason, I think this website of best for someone already focused on this sustainable goal rather than someone new to learning about food insecurity. Overall, I would rate this website a 8/10 becuase it has a lot of very useful informtion conveyes in a pretty good way, I just thin it could cader to a broader audience. 
+###Huristic Evalustion
 
 
 ## #1 Visibility of System Status
-Users should be kept aware on the status of whatever they are doing on a site. 
-
+Definition: Users should be kept aware of the status of whatever they do on a site.
+Evaluation: This site does a good job at meeting his huristic.Each  button is correctly labled with the outcome of pressing it and loading signs are used approperatly. 
+Sevarity Rating: 1
 
 ## #2 Match Between System and the Real World
-Design with phrases, concepts, and flows already familar to the user.
+Definition: Design with phrases, concepts, and flows already familiar to the user.
+Evaluation: This site does a good job at meeting this huristic. The scoll, chart layout, and buttons all function like expected to the user.
+Sevarity Rating: 1
 
 ## #3 User Control and Freedom
-Easily allow Users to exit or undo tasks
+Definition: Easily allow Users to exit or undo tasks
+Evaluation: This site makes it easy to undo poppping out a chart, this site does not allow you to "un download" a chart after pressing the button. For this Reason this huristoc is not met. 
+Sevarity Rating: 2
 
 ## #4 Consistency and Standards
-Make uniform design and concept decisions across the whole of your appplication 
+Definition: Make uniform design and concept decisions across the whole of your application
+Evaluation: This huristc is met. The site uses the exact same format for presenting their charts and descriptions throght the page. It also follows the same color scheme and font. 
+Sevarity Rating: 1
 
 ## #5 Error Prevention
-Anticipate and prevent users errors before they happen
+Definition: Anticipate and prevent users' errors before they happen
+Evaluation: 
 
 ## #6 Recognition Rather Than Recall
-Do not force users to memorize any information, instead give it to them and let them recall it
+Definition: Do not force users to memorize any information, instead, give it to them and let them recall it
+Evaluation: 
 
 ## #7 Flexibility and Efficiency of Use
+Definition: Grant more experienced users shortcuts t speed up their uses
+Evaluation: 
 
 ## #8 Aesthetic and Minimalist Design
+Definition: Only contain relevant and necessary information
+Evaluation: 
+
 ## #9 Help Users Recognize, Diagnose, and Recover From Errors
+Definition: Use clear and concise error messages
+Evaluation: 
+
 ## #10 Help and Documentation
+Definition: Provide documentation users may follow to complete their task 
+Evaluation: 
+
+##Overall Evaluation
+Overall, I felt this website did a good job of providing the necessary statistics for the Zero Hunger SUstainable goal. I found the charts to be extremely useful for visualizing the information. However, I found the information to be a little dense and quite statistical. For this reason, I think this website of best for someone already focused on this sustainable goal rather than someone new to learn about food insecurity. Overall, I would rate this website an 8/10 because it has a lot of very useful information conveyed in a pretty good way, I just think it could cater to a broader audience.
+
+
+
+
 
 ### https://www.jointsdgfund.org/sustainable-development-goals/goal-2-zero-hunger from Joint SDG Fund 
 
 
-###Huristic Evaluation 
+###Huristic Evalustion
 
 
 ## #1 Visibility of System Status
+Definition: Users should be kept aware of the status of whatever they do on a site.
+Evaluation: 
 
 ## #2 Match Between System and the Real World
+Definition: Design with phrases, concepts, and flows already familiar to the user.
+Evaluation: 
 
 ## #3 User Control and Freedom
+Definition: Easily allow Users to exit or undo tasks
+Evaluation: 
+
 ## #4 Consistency and Standards
+Definition: Make uniform design and concept decisions across the whole of your application
+Evaluation: 
+
 ## #5 Error Prevention
+Definition: Anticipate and prevent users' errors before they happen
+Evaluation: 
+
 ## #6 Recognition Rather Than Recall
+Definition: Do not force users to memorize any information, instead, give it to them and let them recall it
+Evaluation: 
+
 ## #7 Flexibility and Efficiency of Use
+Definition: Grant more experienced users shortcuts t speed up their uses
+Evaluation: 
+
 ## #8 Aesthetic and Minimalist Design
+Definition: Only contain relevant and necessary information
+Evaluation: 
+
 ## #9 Help Users Recognize, Diagnose, and Recover From Errors
+Definition: Use clear and concise error messages
+Evaluation: 
+
 ## #10 Help and Documentation
+Definition: Provide documentation users may follow to complete their task 
+Evaluation: 
+
+##Overall Evaluation
