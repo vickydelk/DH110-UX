@@ -13,7 +13,7 @@ I hope this project can spread awareness and concern for the large nmber of maln
 
 ![website screenshot](../unstatsss.jpg)
 
-![website screenshot](./unstatschartss.png)
+![website screenshot](./unstatschartss.jpg)
 
 ### Site Description
 This website highlights the severity of food insecurity worldwide and backs up its claims with facts and figures. This statistical branch of the UN (UN stats) works to compile statistical data worldwide to advance the global statistical system and improve people's lives. The Particular article I have chosen is very thorough in its data analysis and includes information on a number of nations. It presents its data using numbers and charts and cites many scientific studies when making claims.  It explains how accomplishing the "Zero Hunger" goal will come with the improvement in sustainable agriculture, equal access to land and technology, and certain increased investments.
