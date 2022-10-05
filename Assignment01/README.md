@@ -82,6 +82,7 @@ Overall, I felt this website did a good job of providing the necessary statistic
 
 ### Site Description
 
+Similarly, this website highlights the severity of food insecurity worldwide and backs up its claims with facts and figures. The SUstainable Development Goals (SDG) Fund works to accelerate the meeting of the Zero Hunger goal (along with the other ssustainable development goals). It provides an overview of the goal, facts and figures, the goal's targets, as well as many revelent links. However, the majority of the page (when you scroll downward) is fully links to related articles that may contribute to the Zero hunger goal, each article is linked by a picture and its title. 
 
 
 ###Huristic Evalustion
@@ -89,37 +90,37 @@ Overall, I felt this website did a good job of providing the necessary statistic
 
 ## #1 Visibility of System Status
 **Definition:** Users should be kept aware of the status of whatever they do on a site. <br /> 
-**Evaluation:**
-**Sevarity Rating:** 
+**Evaluation:** This huristic is met as all buttons and links are very explicitly labled 
+**Sevarity Rating:** 1
 
 ## #2 Match Between System and the Real World
 **Definition:** Design with phrases, concepts, and flows already familiar to the user. <br /> 
-**Evaluation:** 
-**Sevarity Rating:** 
+**Evaluation:** This is me because the selection table tht allows users to select what information to view seems very familar and intuitive to use. 
+**Sevarity Rating:** 1
 
 ## #3 User Control and Freedom
 **Definition:** Easily allow Users to exit or undo tasks <br /> 
-**Evaluation:** 
-**Sevarity Rating:** 
+**Evaluation:** This huristic is not met because when a user errors (ie clicks on a link by mistake) its not very easy to undo it. The user mst wait until they cna go back, and when they use the "back arrow" to do so the user is not brought to the same place they were.
+**Sevarity Rating:** 3
 
 ## #4 Consistency and Standards
 **Definition:** Make uniform design and concept decisions across the whole of your application <br /> 
-**Evaluation:** 
-**Sevarity Rating:** 
+**Evaluation:** This hurostoc is not met. The top half of he page is very dull with mostly text while the articles linked at the bottom are very colorful and bright. 
+**Sevarity Rating:** 2
 
 ## #5 Error Prevention
 **Definition:** Anticipate and prevent users' errors before they happen <br /> 
-**Evaluation:** 
-**Sevarity Rating:** 
+**Evaluation:** This huristic is not met, if the user accidently makes an error they must suffer the consequences. The site does not have any built in safty mechanisims. 
+**Sevarity Rating:** 2
 
 ## #6 Recognition Rather Than Recall
 **Definition:** Do not force users to memorize any information, instead, give it to them and let them recall it <br /> 
-**Evaluation:** 
-**Sevarity Rating:** 
+**Evaluation:**  This huristic is not met, the page old lots of verbose numarical data and does not have a means to allow the users to reacll any. <br />
+**Sevarity Rating:** 2
 
 ## #7 Flexibility and Efficiency of Use
-**Definition:** Grant more experienced users shortcuts t speed up their uses <br /> 
-**Evaluation:** 
+**Definition:** Grant more experienced users shortcuts to speed up their uses <br /> 
+**Evaluation:** This huristic is not met
 **Sevarity Rating:** 
 
 ## #8 Aesthetic and Minimalist Design
