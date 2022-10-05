@@ -93,27 +93,27 @@ Similarly, this website highlights the severity of food insecurity worldwide and
 
 ### #1 Visibility of System Status
 **Definition:** Users should be kept aware of the status of whatever they do on a site. <br /> 
-**Evaluation:** This heuristic is met as all buttons and links are very explicitly labeled 
+**Evaluation:** This heuristic is met as all buttons and links are very explicitly labeled <br />
 **Severity Rating:** 1
 
 ### #2 Match Between System and the Real World
 **Definition:** Design with phrases, concepts, and flows already familiar to the user. <br /> 
-**Evaluation:** This is met because the selection table that allows users to select what information to view seems very familar and intuitive to use. 
+**Evaluation:** This is met because the selection table that allows users to select what information to view seems very familar and intuitive to use. <br />
 **Severity Rating:** 1
 
 ### #3 User Control and Freedom
 **Definition:** Easily allow users to exit or undo tasks <br /> 
-**Evaluation:** This heuristic is not met because when a user errors (i.e., clicks on a link by mistake) it's not very easy to undo it. The user must wait until they can go back, and when they use the "back arrow" to do so, the user is not brought to the same place they were.
+**Evaluation:** This heuristic is not met because when a user errors (i.e., clicks on a link by mistake) it's not very easy to undo it. The user must wait until they can go back, and when they use the "back arrow" to do so, the user is not brought to the same place they were. <br />
 **Severity Rating:** 3
 
 ### #4 Consistency and Standards
 **Definition:** Make uniform design and concept decisions across the whole of your application. <br /> 
-**Evaluation:** This heuristic is not met. The top half of the page is very dull with mostly text while the articles linked at the bottom are very colorful and bright. 
+**Evaluation:** This heuristic is not met. The top half of the page is very dull with mostly text while the articles linked at the bottom are very colorful and bright.<br /> 
 **Severity Rating:** 2
 
 ### #5 Error Prevention
 **Definition:** Anticipate and prevent users' errors before they happen. <br /> 
-**Evaluation:** This heuristic is not met, if the user accidentally makes an error they must suffer the consequences. The site does not have any built in safety mechanisims. 
+**Evaluation:** This heuristic is not met, if the user accidentally makes an error they must suffer the consequences. The site does not have any built in safety mechanisims. <br />
 **Severity Rating:** 2
 
 ### #6 Recognition Rather Than Recall
@@ -123,12 +123,12 @@ Similarly, this website highlights the severity of food insecurity worldwide and
 
 ### #7 Flexibility and Efficiency of Use
 **Definition:** Grant more experienced users shortcuts to speed up their uses. <br /> 
-**Evaluation:** This heuristic is not met, every user, no matter how advanced, must go through the same experience without being able to speed up the process. 
+**Evaluation:** This heuristic is not met, every user, no matter how advanced, must go through the same experience without being able to speed up the process. <br />
 **Severity Rating:** 2
 
 ### #8 Aesthetic and Minimalist Design
 **Definition:** Only contain relevant and necessary information. <br /> 
-**Evaluation:** This heuristic is not met, the page is very convoluted with irrelevant links and articles making it hard for the user to focus. 
+**Evaluation:** This heuristic is not met, the page is very convoluted with irrelevant links and articles making it hard for the user to focus. <br />
 **Severity Rating:** 3
 
 ### #9 Help Users Recognize, Diagnose, and Recover From Errors
@@ -138,7 +138,7 @@ Similarly, this website highlights the severity of food insecurity worldwide and
 
 ### #10 Help and Documentation
 **Definition:** Provide documentation users may follow to complete their task.  <br /> 
-**Evaluation:** This heuristic is not met, there does not exist any documentation for the users to follow. 
+**Evaluation:** This heuristic is not met, there does not exist any documentation for the users to follow. <br />
 **Severity Rating:** 2
 
 ##Overall Evaluation
