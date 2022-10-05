@@ -120,22 +120,26 @@ Similarly, this website highlights the severity of food insecurity worldwide and
 
 ## #7 Flexibility and Efficiency of Use
 **Definition:** Grant more experienced users shortcuts to speed up their uses <br /> 
-**Evaluation:** This huristic is not met
-**Sevarity Rating:** 
+**Evaluation:** This huristic is not met,every user, no matter how advanced, must go through the same experience without being able tp speed up the process. 
+**Sevarity Rating:** 2
 
 ## #8 Aesthetic and Minimalist Design
 **Definition:** Only contain relevant and necessary information <br /> 
-**Evaluation:** 
-**Sevarity Rating:** 
+**Evaluation:** This huristic is not met, the page is very convoluted with irrevelnt links and articles making it hard for the user to focus. 
+**Sevarity Rating:** 3
 
 ## #9 Help Users Recognize, Diagnose, and Recover From Errors
 **Definition:** : Use clear and concise error messages <br /> 
-**Evaluation:**
-**Sevarity Rating:**
+**Evaluation:** This huristic is not met,  the site doesn not aid in error recovary, leaving that burden to the user. <br />
+**Sevarity Rating:** 2
 
 ## #10 Help and Documentation
 Sevarity Rating:  Provide documentation users may follow to complete their task  <br /> 
-**Evaluation:** 
-**Sevarity Rating: 
+**Evaluation:** This hurstoc is not met, there does not exist any documentation for the users to follow. 
+**Sevarity Rating: 2
 
 ##Overall Evaluation
+Overall, I felt this website did a decent job of 
+
+good job of providing the necessary statistics for the Zero Hunger SUstainable goal. I found the charts to be extremely useful for visualizing the information. However, I found the information to be a little dense and quite statistical. For this reason, I think this website of best for someone already focused on this sustainable goal rather than someone new to learn about food insecurity. Overall, I would rate this website an 8/10 because it has a lot of very useful information conveyed in a pretty good way, I just think it could cater to a broader audience.
+
