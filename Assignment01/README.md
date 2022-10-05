@@ -3,7 +3,7 @@
 ## Zero Hunger Project 
 ### Victoria Delk in DH110 
 
-I hope this project can spread awareness and concern for the large nmber of malnourished people worldwide. It's easy to get cught up in the bubble that is UCLA and forget about the food insecurties many face on a daily basis. According to the United Nations, the number of people who suffer from malnourishment and hunger has actually been increasing for the past 7 years, due to manmade environmental impact and climate change. If we were to stay on the track we are currently on, by 2030, over 840 million people will be affected by hunger. I dont think this is a topic that gains the attention it deserves, so I hope this project can shed some light on the importance of solving this tragedy. 
+I hope this project can spread awareness and concern for the large nmber of malnourished people worldwide. It's easy to get caught up in the bubble that is UCLA and forget about the food insecurties many face on a daily basis. According to the United Nations, the number of people who suffer from malnourishment and hunger has actually been increasing for the past 7 years, due to manmade environmental impact and climate change. If we were to stay on the track we are currently on, by 2030, over 840 million people will be affected by hunger. I dont think this is a topic that gains the attention it deserves, so I hope this project can shed some light on the importance of solving this tragedy. 
 
 
 
