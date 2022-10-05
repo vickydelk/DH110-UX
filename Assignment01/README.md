@@ -80,8 +80,8 @@ Overall, I felt this website did a good job of providing the necessary statistic
 ## Site 2
 ### https://www.jointsdgfund.org/sustainable-development-goals/goal-2-zero-hunger from Joint SDG Fund 
 
-![website screenshot](./unfind1.jpg)
-![website screenshot](./unfund2.jpg)
+![website screenshot](../unfind1.jpg)
+![website screenshot](../unfund2.jpg)
 
 ### Site Description
 
