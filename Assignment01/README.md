@@ -15,58 +15,58 @@ I hope this project can spread awareness and concern for the large nmber of maln
 
 ![website screenshot](./unstatschartss.jpg)
 
-### Site Description
+## Site Description
 This website highlights the severity of food insecurity worldwide and backs up its claims with facts and figures. This statistical branch of the UN (UN stats) works to compile statistical data worldwide to advance the global statistical system and improve people's lives. The Particular article I have chosen is very thorough in its data analysis and includes information on a number of nations. It presents its data using numbers and charts and cites many scientific studies when making claims.  It explains how accomplishing the "Zero Hunger" goal will come with the improvement in sustainable agriculture, equal access to land and technology, and certain increased investments.
 
-###Huristic Evalustion
+##Huristic Evalustion
 
 
-## #1 Visibility of System Status
+### #1 Visibility of System Status
 **Definition:** Users should be kept aware of the status of whatever they do on a site. <br /> 
 **Evaluation:** This site does a good job at meeting his huristic.Each  button is correctly labled with the outcome of pressing it and loading signs are used approperatly.<br /> 
 **Sevarity Rating:** 1
 
-## #2 Match Between System and the Real World
+### #2 Match Between System and the Real World
 **Definition:** Design with phrases, concepts, and flows already familiar to the user. <br /> 
 **Evaluation:** This site does a good job at meeting this huristic. The scoll, chart layout, and buttons all function like expected to the user. <br />
 **Sevarity Rating:** 1
 
-## #3 User Control and Freedom
+### #3 User Control and Freedom
 **Definition:** Easily allow Users to exit or undo tasks .<br /> 
 **Evaluation:** This site makes it easy to undo poppping out a chart, this site does not allow you to "un download" a chart after pressing the button. For this Reason this huristoc is not met. <br />
 **Sevarity Rating:** 2
 
-## #4 Consistency and Standards
+### #4 Consistency and Standards
 **Definition:** Make uniform design and concept decisions across the whole of your application <br /> 
 **Evaluation:** This huristc is met. The site uses the exact same format for presenting their charts and descriptions throght the page. It also follows the same color scheme and font. <br />
 **Sevarity Rating: ** 1
 
-## #5 Error Prevention
+### #5 Error Prevention
 **Definition:** Anticipate and prevent users' errors before they happen <br /> 
 **Evaluation:** This huristic is met, the site is mostly static and makes it pretty hard for erros to be made on the users part. <br />
 **Sevarity Rating:** 1
 
-## #6 Recognition Rather Than Recall
+### #6 Recognition Rather Than Recall
 **Definition:** Do not force users to memorize any information, instead, give it to them and let them recall it <br /> 
 **Evaluation:** This huristic is not met, the page old lots of verbose numarical data and does not have a means to allow the users to reacll any. <br />
 **Sevarity Rating:** 2
 
-## #7 Flexibility and Efficiency of Use
+### #7 Flexibility and Efficiency of Use
 **Definition:** Grant more experienced users shortcuts to speed up their uses <br /> 
 **Evaluation:** This huristoc is not met, there is no shortcuts to scrolling or gathering information for more experiences users. <br />
 **Sevarity Rating:** 2
 
-## #8 Aesthetic and Minimalist Design
+### #8 Aesthetic and Minimalist Design
 **Definition:** Only contain relevant and necessary information <br /> 
 **Evaluation:** This huristic is not met. The design seems convoluted with a surplus of large text going with each diagram. <br />
 **Sevarity Rating:** 3
 
-## #9 Help Users Recognize, Diagnose, and Recover From Errors
+### #9 Help Users Recognize, Diagnose, and Recover From Errors
 **Definition:** Use clear and concise error messages <br /> 
 **Evaluation:** This huristic is not met, the site doesn not aid in error recovary, leaving that burden to the user. <br />
 **Sevarity Rating:** 2
 
-## #10 Help and Documentation
+### #10 Help and Documentation
 **Definition:** Provide documentation users may follow to complete their task  <br /> 
 **Evaluation:** This huristic is not met, the page meerly provides informatio, but does not provide resoures as how to obtain it. <br />
 **Sevarity Rating:** 2
