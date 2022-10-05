@@ -141,5 +141,5 @@ Similarly, this website highlights the severity of food insecurity worldwide and
 **Evaluation:** This heuristic is not met, there does not exist any documentation for the users to follow. <br />
 **Severity Rating:** 2
 
-##Overall Evaluation
+## Overall Evaluation
 Overall, I felt this website did a decent job of providing awareness on the Zero hunger sustainable develepment goal. However, I found the webpage to fail to meet a number of the 10 heuristics. I think the data was presented in a very dense way that made it difficult to viusalize and understand on a large scale. Also I found the numerous links on the bottom on the page to be distracting and unhelpful. Overall, I would rate this website a 6/10 because it has a lot of very useful information but is not conveyed in the best way.
